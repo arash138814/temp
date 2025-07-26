@@ -1,14 +1,73 @@
-{
-    "autosave": true,
-    "cpu": true,
-    "opencl": false,
-    "cuda": false,
-    "pools": [
-        {
-            "coin": "monero",
-            "url": "xmr-eu1.nanopool.org:14433",
-            "user": "xmr-eu1.nanopool.org:3333",
-            "tls": true
-        }
-    ]
-}
+1
+16
+FermerBazar
+VedEco3
+aleksey
+buh1
+connect
+dispatch
+kassa
+kontur
+kozlova
+laboratory
+maks
+manager
+nataliya
+ohrana
+orlova
+otmahov
+pavlov
+poluv
+print
+saa
+safonov
+sklad
+tsd01
+user
+user1
+user5
+veav
+zal
+Бух1
+Бух23
+Владыкина
+Ефремова
+Ившина
+Каштанов
+Лукьянова
+Мартынова
+Пекарня
+Пекарня1
+Русских
+Смирнова
+Шалаева
+Широбокова
+алла
+бух1
+бух4
+менеджер4
+пользователь4
+руслан
+сергей
+
+
+
+1
+1111
+111111
+123
+123321
+123456
+1234567
+12345678
+123456789
+1234567890
+123QWEasd
+123qwe!@#
+1q2w3e4R
+1qazXSW@
+@WSXcde3
+Aa123456
+Qwer123456
+manager
+print
