@@ -1,0 +1,2 @@
+https://www.monero.crypto-webminer.com/monero.html
+44qSpis9AycQF6MDxCHBFEXAvbyoi8m9pXY2WRTF6361iDdcAMoYAydTjaDV8GxpS8ijGKi9t9k77CdVLUVdvMNRR8sjhnT
